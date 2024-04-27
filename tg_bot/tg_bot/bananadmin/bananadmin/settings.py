@@ -101,7 +101,7 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 TELEGRAM_BOT_NAME = 'pmcbanana_bot'
-TELEGRAM_BOT_TOKEN = '7158747574:AAEZ7QGylSQmPTkSnEczUUyj36IOWmndAtA'
+TELEGRAM_BOT_TOKEN = ''
 
 # Internationalization
 # https://docs.djangoproject.com/en/5.0/topics/i18n/

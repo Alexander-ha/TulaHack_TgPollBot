@@ -1,1 +1,6 @@
+Django==5.0.4
+django_jsonfield==1.4.1
+pyTelegramBotAPI==4.17.0
+python-telegram-bot==21.1.1
+regex==2024.4.16
 
